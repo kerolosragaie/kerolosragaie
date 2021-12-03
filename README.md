@@ -6,3 +6,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerolosragaie&layout=compact)
 
+## Languages and Tools
+<img align="left" alt=“Kotlin” width="40px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"/>
+<img align="left" alt=“Dart” width="40px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"/>
+<img align="left" alt=“Android” width="40px" src="https://www.vectorlogo.zone/logos/android/android-icon.svg"/>
+<img align="left" alt=“Flutter” width="40px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/>
+<img align="left" alt=“Visual Studio Code” width="40px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"/>
+
