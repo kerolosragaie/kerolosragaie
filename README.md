@@ -4,12 +4,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2338C2FF&size=38&center=true&width=1000&lines=Android+and+Flutter+developer)](https://git.io/typing-svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerolosragaie&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerolosragaie&theme=tokyonight)
 
 ## Languages and Tools
-<img align="left" alt=“Kotlin” width="40px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"/>
-<img align="left" alt=“Dart” width="40px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"/>
-<img align="left" alt=“Android” width="40px" src="https://www.vectorlogo.zone/logos/android/android-icon.svg"/>
-<img align="left" alt=“Flutter” width="40px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/>
-<img align="left" alt=“Visual Studio Code” width="40px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"/>
+<p align="left">
+<img alt=“Kotlin” width="40px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg">
+<img alt=“Dart” width="40px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
+<img alt=“Android” width="40px" src="https://www.vectorlogo.zone/logos/android/android-icon.svg">
+<img alt=“Flutter” width="40px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
+<img alt=“Visual Studio Code” width="40px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
+</p>
 
