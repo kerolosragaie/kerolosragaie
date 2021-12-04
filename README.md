@@ -2,11 +2,17 @@
 
 [![Linkedin: kerollosragaie](https://img.shields.io/badge/-kerollosragaie-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kerollos-ragaie-youssef-b9529aa6/)](https://www.linkedin.com/in/kerollos-ragaie-youssef-b9529aa6/)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2338C2FF&size=38&center=true&width=1000&lines=Android+and+Flutter+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF79C6&size=40&center=true&width=1000&height=100&lines=Android+and+Flutter+developer)](https://git.io/typing-svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerolosragaie&theme=tokyonight)
+<div align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kerolosragaie&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kerolosragaie&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kerolosragaie&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kerolosragaie&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kerolosragaie&theme=dracula)
+  
+</div>
 
-## Languages and Tools
+## 🛠️ Languages and Tools
 <p align="left">
 <img alt=“Kotlin” width="40px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg">
 <img alt=“Dart” width="40px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
