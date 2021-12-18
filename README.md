@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Kerollos Ragaie</h1>
 
-[![Linkedin: kerollosragaie](https://img.shields.io/badge/-kerollosragaie-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kerollos-ragaie-youssef-b9529aa6/)](https://www.linkedin.com/in/kerollos-ragaie/)
+[![Linkedin: kerollosragaie](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerollos-ragaie/)
+[![Hashnode: kerollosragaie](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://kerollosragaie.hashnode.dev/)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF79C6&size=40&center=true&width=1000&height=100&lines=Android+and+Flutter+developer)](https://git.io/typing-svg)
 
