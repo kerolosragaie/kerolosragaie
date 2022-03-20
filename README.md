@@ -1,5 +1,3 @@
-<h1 align="center">Hi there 👋, I'm Kerollos Ragaie</h1>
-
 [![Linkedin: kerollosragaie](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerollos-ragaie/)
 [![Hashnode: kerollosragaie](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://kerollosragaie.hashnode.dev/)
 
