@@ -1,8 +1,7 @@
 [![Linkedin: kerollosragaie](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerollos-ragaie/)
 [![Hashnode: kerollosragaie](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://kerollosragaie.hashnode.dev/)
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF79C6&size=40&center=true&width=1000&height=100&lines=Android+and+Flutter+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3500&pause=1000&color=FF79C6&center=true&vCenter=true&repeat=false&width=1003&height=100&lines=Android+and+Flutter+Developer)](https://git.io/typing-svg)
 
 <div align="center">
   
