@@ -14,9 +14,6 @@
 <img alt=“Android” width="40px" src="https://www.vectorlogo.zone/logos/android/android-icon.svg">
 <img alt=“Dart” width="40px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
 <img alt=“Flutter” width="40px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
-<img alt=“JavaScript” width="40px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
-<img alt=“TypeScript” width="40px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
-<img alt=“React Native” width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
 <img alt=“Visual Studio Code” width="40px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
 </p>
 
