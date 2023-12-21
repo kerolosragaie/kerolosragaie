@@ -11,6 +11,7 @@
 ## 🛠️ Languages and Tools
 <p align="left">
 <img alt=“Kotlin” width="40px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg">
+<img alt=“Jetpack Compose” width="40px" src="https://upload.vectorlogo.zone/logos/jetpack/images/be5cdec8-1b56-4052-823c-9a0518e666e2.svg">
 <img alt=“Android” width="40px" src="https://www.vectorlogo.zone/logos/android/android-icon.svg">
 <img alt=“Dart” width="40px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
 <img alt=“Flutter” width="40px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
