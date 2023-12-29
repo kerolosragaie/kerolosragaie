@@ -13,6 +13,12 @@
 <img alt=“Kotlin” width="40px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg">
 <img alt=“Jetpack Compose” width="40px" src="https://upload.vectorlogo.zone/logos/jetpack/images/be5cdec8-1b56-4052-823c-9a0518e666e2.svg">
 <img alt=“Android” width="40px" src="https://www.vectorlogo.zone/logos/android/android-icon.svg">
+<img alt=“Python” width="40px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+<img alt=“TensorFlow” width="40px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg">
+<img alt=“Spyder” width="40px" src="https://upload.wikimedia.org/wikipedia/commons/archive/7/7e/20211122181859%21Spyder_logo.svg">
+<img alt=“PyTorch” width="40px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg">
+<img alt=“Atom” width="40px" src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg">
+<img alt=“Jupyter” width="40px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg">
 <img alt=“Dart” width="40px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
 <img alt=“Flutter” width="40px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
 <img alt=“Visual Studio Code” width="40px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
