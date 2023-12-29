@@ -1,6 +1,6 @@
 [![Linkedin: kerollosragaie](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerollos-ragaie/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3500&pause=1000&color=FF79C6&center=true&vCenter=true&repeat=false&width=1003&height=100&lines=Mobile+App+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=2000&pause=500&color=FF79C6&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1003&height=125&lines=Software+Engineer;Mobile+App+Developer)](https://git.io/typing-svg)
 
 <div align="center">
   
